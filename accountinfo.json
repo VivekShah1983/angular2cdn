@@ -1,0 +1,75 @@
+[{
+  "accNumber":"AAA - 0029",
+  "availableCash":39160334.42,
+  "todayChangeAmt":-31435.87,
+  "todayChangePct":-0.0007
+},
+{
+  "accNumber":"AAA - 1812",
+  "availableCash":2010926.10,
+  "todayChangeAmt":38881.63,
+  "todayChangePct":0.0021
+},
+
+{
+  "accNumber":"IRA - 0146",
+  "availableCash":15884302.39,
+  "todayChangeAmt":7430.83,
+  "todayChangePct":0.0003
+}
+,
+{
+  "accNumber":"AAA - 3810",
+  "availableCash":10050054.07,
+  "todayChangeAmt":8916.69,
+  "todayChangePct":0.0007
+},
+{
+    "accNumber":"IRA - 5200",
+  "availableCash":5763.36,
+  "todayChangeAmt":8916.69,
+  "todayChangePct":0.0008
+},
+{
+    "accNumber":"REG - 6019",
+  "availableCash":13465679.34,
+  "todayChangeAmt":0,
+  "todayChangePct":0
+},{
+  "accNumber":"AAA - 6029",
+  "availableCash":39160334.42,
+  "todayChangeAmt":-31435.87,
+  "todayChangePct":-0.0007
+},
+{
+  "accNumber":"AAA - 7812",
+  "availableCash":2010926.10,
+  "todayChangeAmt":38881.63,
+  "todayChangePct":0.0021
+},
+
+{
+  "accNumber":"IRA - 8146",
+  "availableCash":15884302.39,
+  "todayChangeAmt":7430.83,
+  "todayChangePct":0.0003
+}
+,
+{
+  "accNumber":"AAA - 9810",
+  "availableCash":10050054.07,
+  "todayChangeAmt":8916.69,
+  "todayChangePct":0.0007
+},
+{
+    "accNumber":"IRA - 6200",
+  "availableCash":5763.36,
+  "todayChangeAmt":8916.69,
+  "todayChangePct":0.0008
+},
+{
+    "accNumber":"REG - 8019",
+  "availableCash":13465679.34,
+  "todayChangeAmt":0,
+  "todayChangePct":0
+}]
