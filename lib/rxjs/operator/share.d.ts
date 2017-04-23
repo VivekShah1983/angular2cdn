@@ -1,9 +1,4 @@
-"use strict";
-var multicast_1 = require('./multicast');
-var Subject_1 = require('../Subject');
-function shareSubjectFactory() {
-    return new Subject_1.Subject();
-}
+import { Observable } from '../Observable';
 /**
  * Returns a new Observable that multicasts (shares) the original Observable. As long as there is at least one
  * Subscriber this Observable will be subscribed and emitting data. When all subscribers have unsubscribed it will
@@ -16,9 +11,4 @@ function shareSubjectFactory() {
  * @method share
  * @owner Observable
  */
-function share() {
-    return multicast_1.multicast.call(this, shareSubjectFactory).refCount();
-}
-exports.share = share;
-;
-//# sourceMappingURL=share.js.map
+export declare function share<T>(this: Observable<T>): Observable<T>;
